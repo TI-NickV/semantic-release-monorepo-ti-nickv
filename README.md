@@ -1,7 +1,8 @@
 # semantic-release-monorepo-ti-nickv
 
-[!NOTE]  
-This fork adds code to support a dependencies option in package.json to modify what files are scanned to determine the analyzed commits for a package. All credit goes to [mariohamann](https://github.com/mariohamann): https://github.com/pmowrer/semantic-release-monorepo/issues/142
+| Note             |
+| ---------------- |
+| his fork adds code to support a dependencies option in package.json to modify what files are scanned to determine the analyzed commits for a package. All credit goes to [mariohamann](https://github.com/mariohamann): https://github.com/pmowrer/semantic-release-monorepo/issues/142 |
 
 ![Tests workflow](https://github.com/pmowrer/semantic-release-monorepo/actions/workflows/tests.yml/badge.svg) [![npm](https://img.shields.io/npm/v/semantic-release-monorepo.svg)](https://www.npmjs.com/package/semantic-release-monorepo) [![semantic-release](https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg)](https://github.com/semantic-release/semantic-release)
 
